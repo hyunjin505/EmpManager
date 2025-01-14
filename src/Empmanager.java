@@ -50,6 +50,7 @@ public class Empmanager {
                 System.out.println(e.getMessage());
             }catch (Exception e) {
                 e.printStackTrace();
+
             }
 
         }
